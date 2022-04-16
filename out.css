@@ -1,0 +1,19 @@
+#a {
+   color:white;
+   background-color:gray;
+   font-size:x-large;
+}
+p.simsong {
+   font-family: 宋体,黑体,苹方;
+}
+p.yahei {
+   color:rgb(90,50,190);
+   font-family: 微软雅黑;
+}
+p.arial {
+   font-family: Arial,Helvetica,sans-serif;
+}
+p.times {
+   font-family:"Times New Roman",serif;
+   font-size:30px;
+}
